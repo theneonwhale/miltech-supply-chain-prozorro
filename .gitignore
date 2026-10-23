@@ -1,0 +1,14 @@
+# сирі дані Kaggle (~5 ГБ) і сирі відповіді API (66 МБ): не вміщаються в GitHub
+data/raw/
+
+# службове
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+~$*
+Untitled.ipynb
+notes.md
+docs/
+
+# презентація не входить у репозиторій
+*.pptx
